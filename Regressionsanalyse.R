@@ -1,4 +1,4 @@
-# 3_Regressionsanalyse
+# Regressionsanalyse
 # Autor: Vakhtang Kalinin
 # Datum: 14.07.2026
 
@@ -24,7 +24,7 @@ data <- attitude
 reg_mod <- lm(rating ~ complaints+privileges+learning+raises+critical+advance, data=data)
 
 
-### Voraussetzungen ###
+# Voraussetzungen 
 
 # Linearität der AV mit den UVs
 
@@ -67,7 +67,7 @@ vif(reg_mod)
 plot(reg_mod, 4)
 
 
-### Interpretation ###
+# Interpretation 
 
 summary(reg_mod)
 
