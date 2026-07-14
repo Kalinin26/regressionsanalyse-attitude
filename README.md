@@ -10,7 +10,7 @@ sagen die Gesamtbewertung eines Unternehmens durch die Mitarbeitenden vorher?
 
 ## Daten
 R-interner Beispieldatensatz `attitude` (n = 30 Mitarbeitende, 
-Chatterjee & Price) – im Skript direkt verfügbar, kein Download nötig.
+Chatterjee & Price) im Skript direkt verfügbar, kein Download nötig.
 
 ## Methoden
 - Prüfung der Regressionsvoraussetzungen: Linearität, Normalverteilung 
