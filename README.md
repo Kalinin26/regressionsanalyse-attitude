@@ -26,4 +26,4 @@ Mitarbeiterbeschwerden (b = 0.61, p < .001).
 ## Dateien
 - `Regressionsanalyse.R` – vollständiges, reproduzierbares Analyseskript
 - `Regressionsanalyse.pdf` – Ergebnisbericht (APA-orientiert)
-- output - Output des R-Skriptes
+- `output` - Output des R-Skriptes
